@@ -11,3 +11,5 @@
 [Brain Hemorrhage at 38](./articles/brain-hemorrhage-at-38.md)
 
 [Chat with Dr. Devi Shetty, Narayana Hrudayalaya](./articles/devi-shetty-chat-transcript.md)
+
+[Health Checkup Packages - Aarthi Scans & Labs - Bengaluru](./articles/health-checkup-packages-aarthi-scans-labs-blr.md)
